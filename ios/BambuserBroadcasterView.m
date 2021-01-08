@@ -3,7 +3,7 @@
  */
 
 #import "BambuserBroadcasterView.h"
-#import "libbambuser.h"
+#import <BambuserBroadcaster/BambuserBroadcaster.h>
 
 @interface BambuserBroadcasterView() <BambuserViewDelegate>
 @end
